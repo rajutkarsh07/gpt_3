@@ -1,6 +1,7 @@
 import React from "react";
+import gpt3Logo from "../../logo.svg";
 import "./footer.css";
 
-export default function Footer() {
-  return <div>Footer</div>;
-}
+const Footer = () => <div>Footer</div>;
+
+export default Footer;
